@@ -1,0 +1,10 @@
+{
+  "name": "com.raccoons.serialization.newtonsoftjson",
+  "displayName": "Raccoons Newtonsoft Json Serialization",
+  "version": "0.1.0",
+  "description": "Newtonsoft Json Serialization for Raccoons Framework",
+  "unity": "2018.1",
+  "dependencies": {
+    "com.raccoons.serialization": "0.1.0"
+  }
+}
