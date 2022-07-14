@@ -5,6 +5,7 @@
   "description": "Newtonsoft Json Serialization for Raccoons Framework",
   "unity": "2018.1",
   "dependencies": {
-    "com.raccoons.serialization": "0.1.0"
-  }
+    "com.raccoons.serialization": ""
+  },
+  "author": "Raccoons Games"
 }
